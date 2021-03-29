@@ -6,3 +6,4 @@ Artisian Commands:
 -   php artisan migrate,
 -   php artisan make:controller ProductController --resource --model=Product,
 -   php artisan route:list,
+-   php artisan make:model Product -mcr
